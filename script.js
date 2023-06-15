@@ -5,8 +5,8 @@ let playing = true
 
 function preload(){
   birdImg = loadImage('flappybird.png')
-  pipeImg = loadImage('revpipeimg.png')
-  revPipeImg = loadImage('flappybirdpipe.png')
+  pipeImg = loadImage('flappybirdpipe.png')
+  revPipeImg = loadImage('revpipeimg.png')
   backgroundImg = loadImage('background.png')
   font = loadFont("Flappy-Bird.ttf")
 }
